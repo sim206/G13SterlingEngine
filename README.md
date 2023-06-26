@@ -1,4 +1,4 @@
-<h1>Low Temperatture Difference Sterling Engine</h1>
+<h1>Low Temperature Difference Sterling Engine</h1>
 
 
 <h2>Description</h2>
